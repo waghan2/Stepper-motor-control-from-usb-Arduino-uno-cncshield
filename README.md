@@ -1,4 +1,4 @@
-# How to Control steper Motor over usb
+# How to Control Stepper motor over usb
 
 # Includes: include <AccelStepper.h>
 # Components: 
